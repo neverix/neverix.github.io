@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" href="icon_transparent.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+</head>
+
+<body class="bg-dark text-light">
+    <nav class="navbar navbar-dark navbar-fixed-top navbar-expand-lg">
+        <a class="navbar-brand" href="#">
+            <img src="icon_transparent.ico" width="30px" height="30px">
+            <span style="color: whitesmoke;">Stepan Shabalin</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-list-ul"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="portfolio">Portfolio</a>
+                </li>
+            </ul>
+            <hr color="orange">
+            <form class="form-inline my-2 my-lg-0" action=search>
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="query"
+                    id="search-bar">
+                <button class="btn my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+            </form>
+        </div>
+    </nav>
+    <div class="container-fluid bg-light text-dark" id="content">
+        <div class=content>
+            {{ content }}
+        </div>
+    </div>
+    <footer class="container-fluid" id="footer">
+        <hr color="orange">
+        <ul>
+            <li><a href="mailto:nev@neverix.io">Email</a></li>
+            <li><a href="https://github.com/neverix">Github</a></li>
+        </ul>
+        Made with Jekyll.
+    </footer>
+</body>
+
+</html>
