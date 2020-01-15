@@ -17,6 +17,8 @@ layout: default
             * [Evolutionary algorithms](#evolutionary-algorithms)
         * [Processing and Android](#processing-and-android)
         * [VR Caterpillar Simulator](#vr-caterpillar-simulator)
+        * [Equation solver](#equation-solver)
+        * [Cheese](#cheese)
 * [Animation](#animation)
 
 ## Programming
@@ -147,3 +149,26 @@ it looks like the collider stopping the player still exists. If that didn't
 happen, the player would climb up their tree (again, out of their control),
 turn into a butterfly and get chased by a bird - which is the last thing
 I made.
+
+#### Equation solver
+In the end of the 2018-2019 school year, students of the 7A class had
+to make a project in their speciality of interest and then present it
+to the class. Since we studied linear equations in our algebra class,
+I decided to make a linear equation solver as a project. The source
+code is available at [neverix/equsolve](https://github.com/neverix/equsolve)
+and a live demo is on [Github Pages](https://neverix.github.io/equsolve).
+
+{% include img.html url="portfolio/equsolve/params.png" description="Parameters for the solver" %}
+{% include img.html url="portfolio/equsolve/result.png" description="A detailed solution" %}
+
+#### Cheese
+When I was researching chess AI in the end of 2019, I found several games
+in the chess algebraic notation. I don't play chess, so it was hard for
+me to read them. I decided to make a chess game visualizer and called it
+Cheese. The source code is at [neverix/cheese](https://github.com/neverix/cheese)
+and a live demo is on [Github Pages](https://neverix.github.io/cheese).
+
+{% include img.html url="portfolio/cheese.png" description="" %}
+
+# This portfolio is a WIP!
+I'm still adding entries.
