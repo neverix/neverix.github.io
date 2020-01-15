@@ -105,5 +105,45 @@ at [neverik/android-processing](https://github.com/Neverik/android-processing)
 for Android sketches and [neverik/processing](https://github.com/Neverik/processing)
 for Processing ones.
 
+{% include img.html url="portfolio/processing.png" description="One of my Processing games" %}
+
 #### VR Caterpillar Simulator
-This is my first VR project. 
+This is my first VR project. I never finished it, but at
+least it exists. It's a "Caterpillar Simulator" VR game
+for mobile devices. I created it using the Unity game engine.
+It was made mostly in summer 2017. One of the lessons I learned
+was to never rely on pre-made assets for 3D models, because the
+game turned out having no consistent art style. The (unfinished) source
+code is available at [neverik/vr](https://github.com/Neverik/vr).
+
+{% include img.html url="portfolio/caterpillar/start.png" description="" %}
+The start of the game. The player can look down to walk and has to eat...
+Mushrooms? So they don't starve.
+
+{% include img.html url="portfolio/caterpillar/boat.png" description="" %}
+The boat minigame. The player has to steer a boat (actually, it was
+intended as a wooden chip, but I ended up calling it a boat in the
+scripts).
+
+{% include img.html url="portfolio/caterpillar/boatend.png" description="" %}
+Near the end of the boat minigame, the player approaches a tree. Then the game
+makes them jump out of the boat onto the ground. After playtesting this
+part, I learned another lesson: never control the player's movement in a VR
+game.
+
+{% include img.html url="portfolio/caterpillar/nospider.png" description="" %}
+Now the player has to reach the tree, climb up and become a butterfly. Oh no!
+A spider approaches the player and blocks their way to the tree! Looks like
+its model didn't load.
+
+{% include img.html url="portfolio/caterpillar/questions.png" description="" %}
+It starts asking questions. I didn't make up the questions themselves, but they
+would probably be some generic trivia stuff.
+
+{% include img.html url="portfolio/caterpillar/tree.png" description="" %}
+After the player answers the spider's questions, the spider jumps out into
+the nothingness and frees the path. Since the spider model didn't load,
+it looks like the collider stopping the player still exists. If that didn't
+happen, the player would climb up their tree (again, out of their control),
+turn into a butterfly and get chased by a bird - which is the last thing
+I made.
