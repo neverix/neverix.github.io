@@ -63,7 +63,7 @@ I participated in the development of AAA, a book which
 aims to be an archive of important algorithms and their
 implementations in different languages. In particular, I have
 contributed Smalltalk implementations and a Python-based
-alternative for the official system, based on an outdated
+alternative for the official build system, based on an outdated
 version of [gitbook](https://gitbook.io). The original book
 can be accessed at [algorithm-archive.org](https://algorithm-archive.org).
 My own version is on [my Github](https://github.com/neverix/aaa-py).
