@@ -67,6 +67,8 @@ alternative for the official build system, based on an outdated
 version of [gitbook](https://gitbook.io). The original book
 can be accessed at [algorithm-archive.org](https://algorithm-archive.org).
 My own version is on [my Github](https://github.com/neverix/aaa-py).
+Here's a [discussion](https://github.com/algorithm-archivists/algorithm-archive/issues/611)
+about the build system.
 
 {% include img.html url="portfolio/aaapy.png" description="aaa-py" %}
 
