@@ -1,49 +1,75 @@
 ---
 layout: default
 ---
+
 # Portfolio
 
 ### Navigation
-* [Programming](#programming)
-    * [Game Jams](#game-jams)
-    * [Projects](#projects)
-        * [Evolution simulator](#evolution-simulator)
-        * [Raytracing](#raytracing)
-        * [Arcane Algorithm Archive](#arcane-algorithm-archive)
-        * [Russian AI Cup](#russian-ai-cup)
-        * [Deep Learning](#deep-learning)
-            * [Autoencoding](#autoencoding)
-            * [Financial prediction](#financial-prediction)
-            * [Evolutionary algorithms](#evolutionary-algorithms)
-        * [Processing and Android](#processing-and-android)
-        * [VR Caterpillar Simulator](#vr-caterpillar-simulator)
-        * [Equation solver](#equation-solver)
-        * [Cheese](#cheese)
-* [Animation](#animation)
+
+-   [Programming](#programming)
+    -   [Game Jams](#game-jams)
+    -   [Hackathons](#hackathons)
+        -   [MIT Reality Hack](#mit-reality-hack)
+    -   [Projects](#projects)
+        -   [Evolution simulator](#evolution-simulator)
+        -   [Raytracing](#raytracing)
+        -   [Arcane Algorithm Archive](#arcane-algorithm-archive)
+        -   [Russian AI Cup](#russian-ai-cup)
+        -   [Deep Learning](#deep-learning)
+            -   [Autoencoding](#autoencoding)
+            -   [Financial prediction](#financial-prediction)
+            -   [Evolutionary algorithms](#evolutionary-algorithms)
+        -   [Processing and Android](#processing-and-android)
+        -   [VR Caterpillar Simulator](#vr-caterpillar-simulator)
+        -   [Equation solver](#equation-solver)
+        -   [Cheese](#cheese)
+-   [Animation](#animation)
 
 ## Programming
+
 I am a programmer with a game programming background. I have
 two Github accounts, before and after a brand change. Most
 of the important projects on the old profile are on the front
 page.
 
-* [Old Github account](https://github.com/neverik/)
-* [New Github account](https://github.com/neverix/)
+-   [Old Github account](https://github.com/neverik/)
+-   [New Github account](https://github.com/neverix/)
 
 ### Game Jams
+
 I have participated in many game jams over the years. Most
 of my jam games were made for Ludum Dare and Mini Jam.
 
-* [Old Ludum Dare profile](https://ldjam.com/users/stepan-shabalin/)
-* [Old itch.io profile](https://neverik.itch.io/)
-* [New Ludum Dare profile](https://ldjam.com/users/neverix/)
-* [New itch.io profile](https://neverix.itch.io/)
+-   [Old Ludum Dare profile](https://ldjam.com/users/stepan-shabalin/)
+-   [Old itch.io profile](https://neverik.itch.io/)
+-   [New Ludum Dare profile](https://ldjam.com/users/neverix/)
+-   [New itch.io profile](https://neverix.itch.io/)
+
+### Hackathons
+
+#### MIT Reality Hack
+
+So far, I have only participated in one offline hackathon - the
+MIT Reality Hack. Together with my team, we made an XR project
+named draft360 in two days. We won the Best of AR and Best in Tools
+awards.
+
+I worked on the WebXR frontend and backend.
+
+-   [MIT Reality Hack](https://mitrealityhack.com)
+-   [Devpost](https://devpost.com/software/draft360)
+
+Project Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__nJBwGFMaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Projects
+
 This is a quick summary of the projects on my Github. To see a
 full list, please look at my profile.
 
 #### Evolution simulator
+
 I created two evolution simulators (EVO and EVO 3.0) as a school
 project in late 2017. They are available at [neverik/evo](https://github.com/neverik/evo)
 and [neverik/evo3.0](https://github.com/neverik/evo_3.0).
@@ -52,6 +78,7 @@ and [neverik/evo3.0](https://github.com/neverik/evo_3.0).
 {% include img.html url="portfolio/evo3.png" description="Third version" %}
 
 #### Raytracing
+
 I made a path tracing-based renderer in the summer of 2019.
 Its source code is [available](https://github.com/neverix/pathcaster)
 on Github.
@@ -59,6 +86,7 @@ on Github.
 {% include img.html url="portfolio/render.png" description="A test render." %}
 
 #### Arcane Algorithm Archive
+
 I participated in the development of AAA, a book which
 aims to be an archive of important algorithms and their
 implementations in different languages. In particular, I have
@@ -74,6 +102,7 @@ about the build system.
 {% include img.html url="portfolio/aaapy.png" description="aaa-py" %}
 
 #### Russian AI Cup
+
 In November-December 2018, I participated in a competition
 named Russian AI Cup (RAIC). I made several solutions for it
 and contributed some packaged to the Python Dockerfile.
@@ -81,27 +110,32 @@ and contributed some packaged to the Python Dockerfile.
 {% include img.html url="portfolio/codeball.jpg" description="RAIC 2018: CodeBall" %}
 
 #### Deep Learning
+
 Some deep learning/artificial intelligence projects I made in summer 2018.
 
 ##### Autoencoding
+
 Experiments with using a special type of neural network (Autoencoders)
-to create procedural animations. I didn't find any useful applications for 
+to create procedural animations. I didn't find any useful applications for
 the technology, but I found the results interesting. The source code can be found
 [on my Github](https://github.com/Neverik/autoencoding).
 
 {% include img.html url="portfolio/autoenc.png" description="Animation results" %}
 
 ##### Financial prediction
+
 A simple LSTM-based financial prediction model. I'm not sure if it's
 useful, but it's there and achieves 80% accuracy on training data.
 [Source code](https://github.com/Neverik/finance).
 
 ##### Evolutionary algorithms
+
 Since EVO 1.0 and 2.0 failed, maybe neural network-based evolutionary
 simulators don't even work? I tried making one, but it didn't learn.
 [Source code](https://github.com/Neverik/evolution).
 
 #### Processing and Android
+
 [Processing](https://processing.org) is a creative coding
 environment. I have used it on my Android phone during the
 2017-2018 school year to create several sketches like games,
@@ -113,6 +147,7 @@ for Processing ones.
 {% include img.html url="portfolio/processing.png" description="One of my Processing games" %}
 
 #### VR Caterpillar Simulator
+
 This is my first VR project. I never finished it, but at
 least it exists. It's a "Caterpillar Simulator" VR game
 for mobile devices. I created it using the Unity game engine.
@@ -154,6 +189,7 @@ turn into a butterfly and get chased by a bird - which is the last thing
 I made.
 
 #### Equation solver
+
 In the end of the 2018-2019 school year, students of the 7A class had
 to make a project in their speciality of interest and then present it
 to the class. Since we studied linear equations in our algebra class,
@@ -165,6 +201,7 @@ and a live demo is on [Github Pages](https://neverix.github.io/equsolve).
 {% include img.html url="portfolio/equsolve/result.png" description="A detailed solution" %}
 
 #### Cheese
+
 When I was researching chess AI in the end of 2019, I found several games
 in the chess algebraic notation. I don't play chess, so it was hard for
 me to read them. I decided to make a chess game visualizer and called it
@@ -174,4 +211,5 @@ and a live demo is on [Github Pages](https://neverix.github.io/cheese).
 {% include img.html url="portfolio/cheese.png" description="" %}
 
 # This portfolio is a WIP!
+
 I'm still adding entries.
