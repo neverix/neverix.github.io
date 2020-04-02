@@ -47,21 +47,49 @@ of my jam games were made for Ludum Dare and Mini Jam.
 
 ### Hackathons
 
+So far, I have participated in two offline hackathons and the
+COVID-19 global hackathon.
+
 #### MIT Reality Hack
 
-So far, I have only participated in one offline hackathon - the
-MIT Reality Hack. Together with my team, we made an XR project
-named draft360 in two days. We won the Best of AR and Best in Tools
-awards.
-
+Together with my team, I made an XR project named draft360
+in two days. We won the Best of AR and Best in Tools awards.
 I worked on the WebXR frontend and backend.
 
 -   [MIT Reality Hack](https://mitrealityhack.com)
 -   [Devpost](https://devpost.com/software/draft360)
 
-Project Video:
+Project video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/__nJBwGFMaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### MLHack 2020
+
+I participated primarily online. We won first place in sales forecasting
+using a custom SVM-based model.
+
+- [MLHack 2020](http://mlhack.tech/)
+- [Task explanation](https://drive.google.com/open?id=1uKfqgyCLG0kszAvWD2_TzJuegkuaAzYMtvXI9Rg0R84)
+- [Task file](https://drive.google.com/open?id=1TFnmu6SLEiSNUgf0sQbjGuxi0ZyM2W4O)
+- [Solution Colab](https://colab.research.google.com/drive/18XIPvJJ9sCGzmnMTRzi6IUhz9RROs2t6)
+- [Solution file](https://drive.google.com/file/d/1MhLrBJOo5wDb7IxHCCw5fa0FH2PFdB4V/view?usp=sharing)
+- [Solution explanation](https://docs.google.com/document/d/1Gv_BsGRYzruzWVh_DodzmmqHVqggvYVtqMyH1RoAZ2Q/edit)
+
+#### COVID-19 Global Hackathon
+
+I started gathering information about my family a year ago
+and found it hard to organise and visualise. I decided to
+participate in the COVID-19 Global hackathon and create a
+tool that makes it simple to create family trees and learn
+`pysimplegui`.
+
+- [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)
+- [Project link](https://devpost.com/software/family-tree-brcwnt)
+- [Github repo](https://github.com/neverix/family-tree)
+
+Project video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0q5trreTfvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Projects
 
