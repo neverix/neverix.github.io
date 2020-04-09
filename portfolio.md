@@ -10,6 +10,8 @@ layout: default
     -   [Game Jams](#game-jams)
     -   [Hackathons](#hackathons)
         -   [MIT Reality Hack](#mit-reality-hack)
+        -   [MLHack 2020](#mlhack-2020)
+        -   [COVID-19 Global Hackathon](#covid-19-global-hackathon)
     -   [Projects](#projects)
         -   [Evolution simulator](#evolution-simulator)
         -   [Raytracing](#raytracing)
@@ -68,12 +70,12 @@ Project video:
 I participated primarily online. We won first place in sales forecasting
 using a custom SVM-based model.
 
-- [MLHack 2020](http://mlhack.tech/)
-- [Task explanation](https://drive.google.com/open?id=1uKfqgyCLG0kszAvWD2_TzJuegkuaAzYMtvXI9Rg0R84)
-- [Task file](https://drive.google.com/open?id=1TFnmu6SLEiSNUgf0sQbjGuxi0ZyM2W4O)
-- [Solution Colab](https://colab.research.google.com/drive/18XIPvJJ9sCGzmnMTRzi6IUhz9RROs2t6)
-- [Solution file](https://drive.google.com/file/d/1MhLrBJOo5wDb7IxHCCw5fa0FH2PFdB4V/view?usp=sharing)
-- [Solution explanation](https://docs.google.com/document/d/1Gv_BsGRYzruzWVh_DodzmmqHVqggvYVtqMyH1RoAZ2Q/edit)
+-   [MLHack 2020](http://mlhack.tech/)
+-   [Task explanation](https://drive.google.com/open?id=1uKfqgyCLG0kszAvWD2_TzJuegkuaAzYMtvXI9Rg0R84)
+-   [Task file](https://drive.google.com/open?id=1TFnmu6SLEiSNUgf0sQbjGuxi0ZyM2W4O)
+-   [Solution Colab](https://colab.research.google.com/drive/18XIPvJJ9sCGzmnMTRzi6IUhz9RROs2t6)
+-   [Solution file](https://drive.google.com/file/d/1MhLrBJOo5wDb7IxHCCw5fa0FH2PFdB4V/view?usp=sharing)
+-   [Solution explanation](https://docs.google.com/document/d/1Gv_BsGRYzruzWVh_DodzmmqHVqggvYVtqMyH1RoAZ2Q/edit)
 
 #### COVID-19 Global Hackathon
 
@@ -83,9 +85,9 @@ participate in the COVID-19 Global hackathon and create a
 tool that makes it simple to create family trees and learn
 `pysimplegui`.
 
-- [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)
-- [Project link](https://devpost.com/software/family-tree-brcwnt)
-- [Github repo](https://github.com/neverix/family-tree)
+-   [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)
+-   [Project link](https://devpost.com/software/family-tree-brcwnt)
+-   [Github repo](https://github.com/neverix/family-tree)
 
 Project video:
 
