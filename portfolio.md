@@ -61,9 +61,7 @@ I worked on the WebXR frontend and backend.
 -   [MIT Reality Hack](https://mitrealityhack.com)
 -   [Devpost](https://devpost.com/software/draft360)
 
-Project video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/__nJBwGFMaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include yt.html url="__nJBwGFMaA" description="Project video" %}
 
 #### MLHack 2020
 
@@ -89,9 +87,7 @@ tool that makes it simple to create family trees and learn
 -   [Project link](https://devpost.com/software/family-tree-brcwnt)
 -   [Github repo](https://github.com/neverix/family-tree)
 
-Project video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0q5trreTfvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include yt.html url="0q5trreTfvA" description="Project video" %}
 
 ### Projects
 
