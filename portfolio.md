@@ -74,6 +74,7 @@ using a custom SVM-based model.
 -   [Solution Colab](https://colab.research.google.com/drive/18XIPvJJ9sCGzmnMTRzi6IUhz9RROs2t6)
 -   [Solution file](https://drive.google.com/file/d/1MhLrBJOo5wDb7IxHCCw5fa0FH2PFdB4V/view?usp=sharing)
 -   [Solution explanation](https://docs.google.com/document/d/1Gv_BsGRYzruzWVh_DodzmmqHVqggvYVtqMyH1RoAZ2Q/edit)
+-   [Article about the results](https://news.itmo.ru/en/startups_and_business/partnership/news/9277/)
 
 #### COVID-19 Global Hackathon
 
