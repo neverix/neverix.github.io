@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a,
+hr {
+    color: #ff9a00;
+}
+
+a:hover {
+    color: #ffca38;
+}
+
+body {
+    color: #343a40;
+    background-color: #fafafa;
+}
+
+.inline {
+    display: inline;
+}

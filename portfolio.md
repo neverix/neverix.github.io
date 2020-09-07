@@ -1,43 +1,26 @@
 ---
 layout: default
+permalink: /portfolio/
 ---
 
 # Portfolio
 
-### Navigation
+# Navigation
 
--   [Programming](#programming)
-    -   [Game Jams](#game-jams)
-    -   [Hackathons](#hackathons)
-        -   [MIT Reality Hack](#mit-reality-hack)
-        -   [MLHack 2020](#mlhack-2020)
-        -   [COVID-19 Global Hackathon](#covid-19-global-hackathon)
-    -   [Projects](#projects)
-        -   [Evolution simulator](#evolution-simulator)
-        -   [Raytracing](#raytracing)
-        -   [Arcane Algorithm Archive](#arcane-algorithm-archive)
-        -   [Russian AI Cup](#russian-ai-cup)
-        -   [Deep Learning](#deep-learning)
-            -   [Autoencoding](#autoencoding)
-            -   [Financial prediction](#financial-prediction)
-            -   [Evolutionary algorithms](#evolutionary-algorithms)
-        -   [Processing and Android](#processing-and-android)
-        -   [VR Caterpillar Simulator](#vr-caterpillar-simulator)
-        -   [Equation solver](#equation-solver)
-        -   [Cheese](#cheese)
--   [Animation](#animation)
+{:toc}
 
-## Programming
+-   [Programming](#Programming)
+
+# Programming
 
 I am a programmer with a game programming background. I have
-two Github accounts, before and after a brand change. Most
-of the important projects on the old profile are on the front
-page.
+two Github accounts. Most of the important projects on the old
+profile are on the front page.
 
 -   [Old Github account](https://github.com/neverik/)
 -   [New Github account](https://github.com/neverix/)
 
-### Game Jams
+## Game Jams
 
 I have participated in many game jams over the years. Most
 of my jam games were made for Ludum Dare and Mini Jam.
@@ -47,12 +30,12 @@ of my jam games were made for Ludum Dare and Mini Jam.
 -   [New Ludum Dare profile](https://ldjam.com/users/neverix/)
 -   [New itch.io profile](https://neverix.itch.io/)
 
-### Hackathons
+## Hackathons
 
 So far, I have participated in two offline hackathons and the
 COVID-19 global hackathon.
 
-#### MIT Reality Hack
+### MIT Reality Hack
 
 Together with my team, I made an XR project named draft360
 in two days. We won the Best of AR and Best in Tools awards.
@@ -63,7 +46,7 @@ I worked on the WebXR frontend and backend.
 
 {% include yt.html url="__nJBwGFMaA" description="Project video" %}
 
-#### MLHack 2020
+### MLHack 2020
 
 I participated primarily online. We won first place in sales forecasting
 using a custom SVM-based model.
@@ -76,7 +59,7 @@ using a custom SVM-based model.
 -   [Solution explanation](https://docs.google.com/document/d/1Gv_BsGRYzruzWVh_DodzmmqHVqggvYVtqMyH1RoAZ2Q/edit)
 -   [Article about the results](https://news.itmo.ru/en/startups_and_business/partnership/news/9277/)
 
-#### COVID-19 Global Hackathon
+### COVID-19 Global Hackathon
 
 I started gathering information about my family a year ago
 and found it hard to organise and visualise. I decided to
@@ -90,12 +73,22 @@ tool that makes it simple to create family trees and learn
 
 {% include yt.html url="0q5trreTfvA" description="Project video" %}
 
-### Projects
+### Pulkovo Hack
+
+[Pulkovo Hack](https://practicingfutures.org/pulkovohack) was an online hackathon
+hosted by [Practicing Futures](https://practicingfutures.org/). I participated in
+it with a program for scheduling and won first place.
+
+-   [Pulkovo Hack](https://practicingfutures.org/pulkovohack)
+-   [The project](https://github.com/neverix/Pulkovo-Hack-Team-2020)
+-   [Presentation](https://github.com/neverix/Pulkovo-Hack-Team-2020/blob/master/presentation.odp?raw=true)
+
+## Projects
 
 This is a quick summary of the projects on my Github. To see a
 full list, please look at my profile.
 
-#### Evolution simulator
+### Evolution simulator
 
 I created two evolution simulators (EVO and EVO 3.0) as a school
 project in late 2017. They are available at [neverik/evo](https://github.com/neverik/evo)
@@ -104,7 +97,7 @@ and [neverik/evo3.0](https://github.com/neverik/evo_3.0).
 {% include img.html url="portfolio/evo.png" description="First version" %}
 {% include img.html url="portfolio/evo3.png" description="Third version" %}
 
-#### Raytracing
+### Raytracing
 
 I made a path tracing-based renderer in the summer of 2019.
 Its source code is [available](https://github.com/neverix/pathcaster)
@@ -112,7 +105,7 @@ on Github.
 
 {% include img.html url="portfolio/render.png" description="A test render." %}
 
-#### Arcane Algorithm Archive
+### Arcane Algorithm Archive
 
 I participated in the development of AAA, a book which
 aims to be an archive of important algorithms and their
@@ -128,7 +121,7 @@ about the build system.
 
 {% include img.html url="portfolio/aaapy.png" description="aaa-py" %}
 
-#### Russian AI Cup
+### Russian AI Cup
 
 In November-December 2018, I participated in a competition
 named Russian AI Cup (RAIC). I made several solutions for it
@@ -136,11 +129,11 @@ and contributed some packaged to the Python Dockerfile.
 
 {% include img.html url="portfolio/codeball.jpg" description="RAIC 2018: CodeBall" %}
 
-#### Deep Learning
+### Deep Learning
 
 Some deep learning/artificial intelligence projects I made in summer 2018.
 
-##### Autoencoding
+#### Autoencoding
 
 Experiments with using a special type of neural network (Autoencoders)
 to create procedural animations. I didn't find any useful applications for
@@ -149,19 +142,32 @@ the technology, but I found the results interesting. The source code can be foun
 
 {% include img.html url="portfolio/autoenc.png" description="Animation results" %}
 
-##### Financial prediction
+#### Financial prediction
 
 A simple LSTM-based financial prediction model. I'm not sure if it's
 useful, but it's there and achieves 80% accuracy on training data.
 [Source code](https://github.com/Neverik/finance).
 
-##### Evolutionary algorithms
+#### Evolutionary algorithms
 
 Since EVO 1.0 and 2.0 failed, maybe neural network-based evolutionary
 simulators don't even work? I tried making one, but it didn't learn.
 [Source code](https://github.com/Neverik/evolution).
 
-#### Processing and Android
+#### Voice conversion
+
+I developed several methods for voice conversion (speech style transfer).
+
+-   [Original method (Autumn 2019, didn't work correctly)](https://github.com/neverix/voice-conv)
+-   [QuartzNet method (June 2020 didn't generalize)](https://github.com/neverix/vconv)
+-   [Experiments in style transfer (June-July 2020)](https://github.com/neverix/vconvo)
+
+I finished the project in a private repository using the time warping
+method implemented in /vconvo.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1124415739&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/neverix" title="neverix" target="_blank" style="color: #cccccc; text-decoration: none;">neverix</a> · <a href="https://soundcloud.com/neverix/sets/voice-conversion-samples" title="Voice conversion samples" target="_blank" style="color: #cccccc; text-decoration: none;">Voice conversion samples</a></div>
+
+### Processing and Android
 
 [Processing](https://processing.org) is a creative coding
 environment. I have used it on my Android phone during the
@@ -173,7 +179,7 @@ for Processing ones.
 
 {% include img.html url="portfolio/processing.png" description="One of my Processing games" %}
 
-#### VR Caterpillar Simulator
+### VR Caterpillar Simulator
 
 This is my first VR project. I never finished it, but at
 least it exists. It's a "Caterpillar Simulator" VR game
@@ -215,7 +221,7 @@ happen, the player would climb up their tree (again, out of their control),
 turn into a butterfly and get chased by a bird - which is the last thing
 I made.
 
-#### Equation solver
+### Equation solver
 
 In the end of the 2018-2019 school year, students of the 7A class had
 to make a project in their speciality of interest and then present it
@@ -227,7 +233,7 @@ and a live demo is on [Github Pages](https://neverix.github.io/equsolve).
 {% include img.html url="portfolio/equsolve/params.png" description="Parameters for the solver" %}
 {% include img.html url="portfolio/equsolve/result.png" description="A detailed solution" %}
 
-#### Cheese
+### Cheese
 
 When I was researching chess AI in the end of 2019, I found several games
 in the chess algebraic notation. I don't play chess, so it was hard for
