@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nev - home page
+title: Home page
 permalink: /
 ---
 

@@ -14,21 +14,11 @@ permalink: /portfolio/
 # Programming
 
 I am a programmer with a game programming background. I have
-two Github accounts. Most of the important projects on the old
-profile are on the front page.
+two Github accounts. Most of the important projects are on the new one,
+and the ones on the old profile are contained in the front page.
 
 -   [Old Github account](https://github.com/neverik/)
 -   [New Github account](https://github.com/neverix/)
-
-## Game Jams
-
-I have participated in many game jams over the years. Most
-of my jam games were made for Ludum Dare and Mini Jam.
-
--   [Old Ludum Dare profile](https://ldjam.com/users/stepan-shabalin/)
--   [Old itch.io profile](https://neverik.itch.io/)
--   [New Ludum Dare profile](https://ldjam.com/users/neverix/)
--   [New itch.io profile](https://neverix.itch.io/)
 
 ## Hackathons
 
@@ -125,7 +115,7 @@ about the build system.
 
 In November-December 2018, I participated in a competition
 named Russian AI Cup (RAIC). I made several solutions for it
-and contributed some packaged to the Python Dockerfile.
+and contributed some packages to the Python Dockerfile.
 
 {% include img.html url="portfolio/codeball.jpg" description="RAIC 2018: CodeBall" %}
 
@@ -146,13 +136,20 @@ the technology, but I found the results interesting. The source code can be foun
 
 A simple LSTM-based financial prediction model. I'm not sure if it's
 useful, but it's there and achieves 80% accuracy on training data.
-[Source code](https://github.com/Neverik/finance).
+
+-   [Source code](https://github.com/Neverik/finance).
 
 #### Evolutionary algorithms
 
 Since EVO 1.0 and 2.0 failed, maybe neural network-based evolutionary
 simulators don't even work? I tried making one, but it didn't learn.
-[Source code](https://github.com/Neverik/evolution).
+
+-   [Source code](https://github.com/Neverik/evolution).
+
+_Note from future me: I actually didn't implement a full genetic algorithm_
+_with crossover and multiple species because I thought it would be less useful_
+_for neural networks. I'll need to conduct further experiments to see whether_
+_it's possible to get improvements that way._
 
 #### Voice conversion
 
@@ -179,48 +176,6 @@ for Processing ones.
 
 {% include img.html url="portfolio/processing.png" description="One of my Processing games" %}
 
-### VR Caterpillar Simulator
-
-This is my first VR project. I never finished it, but at
-least it exists. It's a "Caterpillar Simulator" VR game
-for mobile devices. I created it using the Unity game engine.
-It was made mostly in summer 2017. One of the lessons I learned
-was to never rely on pre-made assets for 3D models, because the
-game turned out having no consistent art style. The (unfinished) source
-code is available at [neverik/vr](https://github.com/Neverik/vr).
-
-{% include img.html url="portfolio/caterpillar/start.png" description="" %}
-The start of the game. The player can look down to walk and has to eat...
-Mushrooms? So they don't starve.
-
-{% include img.html url="portfolio/caterpillar/boat.png" description="" %}
-The boat minigame. The player has to steer a boat (actually, it was
-intended as a wooden chip, but I ended up calling it a boat in the
-scripts).
-
-{% include img.html url="portfolio/caterpillar/boatend.png" description="" %}
-Near the end of the boat minigame, the player approaches a tree. Then the game
-makes them jump out of the boat onto the ground. After playtesting this
-part, I learned another lesson: never control the player's movement in a VR
-game.
-
-{% include img.html url="portfolio/caterpillar/nospider.png" description="" %}
-Now the player has to reach the tree, climb up and become a butterfly. Oh no!
-A spider approaches the player and blocks their way to the tree! Looks like
-its model didn't load.
-
-{% include img.html url="portfolio/caterpillar/questions.png" description="" %}
-It starts asking questions. I didn't make up the questions themselves, but they
-would probably be some generic trivia stuff.
-
-{% include img.html url="portfolio/caterpillar/tree.png" description="" %}
-After the player answers the spider's questions, the spider jumps out into
-the nothingness and frees the path. Since the spider model didn't load,
-it looks like the collider stopping the player still exists. If that didn't
-happen, the player would climb up their tree (again, out of their control),
-turn into a butterfly and get chased by a bird - which is the last thing
-I made.
-
 ### Equation solver
 
 In the end of the 2018-2019 school year, students of the 7A class had
@@ -242,6 +197,57 @@ Cheese. The source code is at [neverix/cheese](https://github.com/neverix/cheese
 and a live demo is on [Github Pages](https://neverix.github.io/cheese).
 
 {% include img.html url="portfolio/cheese.png" description="" %}
+
+### VR Caterpillar Simulator
+
+This is my first VR project. I never finished it, but at
+least it exists. It's a "Caterpillar Simulator" VR game
+for mobile devices. I created it using the Unity game engine.
+It was made mostly in summer 2017. One of the lessons I learned
+was not to rely too much on pre-made assets for 3D models, because the
+game turned out having no consistent art style. The (unfinished) source
+code is available at [neverik/vr](https://github.com/Neverik/vr).
+
+{% include img.html url="portfolio/caterpillar/start.png" description="" %}
+The start of the game. The player can look down to walk (since this is a
+Cardboard game, all interaction is gaze-based) and has to eat... Mushrooms? So they don't starve.
+
+{% include img.html url="portfolio/caterpillar/boat.png" description="" %}
+The boat minigame. The player has to steer a boat (actually, it was
+intended as a wooden chip, but I for some reason I called it a boat in the scripts).
+
+{% include img.html url="portfolio/caterpillar/boatend.png" description="" %}
+Near the end of the boat minigame, the player approaches a tree. Then the game
+makes them jump out of the boat onto the ground. After playtesting this
+part, I learned another lesson: never control the player's movement in a VR
+game.
+
+{% include img.html url="portfolio/caterpillar/nospider.png" description="" %}
+Now the player has to reach the tree, climb up and become a butterfly. Oh no!
+A spider approaches the player and blocks their way to the tree! Looks like
+its model didn't load.
+
+{% include img.html url="portfolio/caterpillar/questions.png" description="" %}
+It starts asking questions. I didn't make up the questions themselves, but they
+would probably be generic trivia.
+
+{% include img.html url="portfolio/caterpillar/tree.png" description="" %}
+After the player answers the spider's questions, the spider jumps out into
+the nothingness and frees the path. Since the spider model didn't load,
+it looks like the collider stopping the player still exists. If that didn't
+happen, the player would climb up their tree (again, out of their control),
+turn into a butterfly and get chased by a bird - which is the last thing
+I made.
+
+## Game Jams
+
+I have participated in many game jams over the years. Most
+of my jam games were made for Ludum Dare and Mini Jam.
+
+-   [Old Ludum Dare profile](https://ldjam.com/users/stepan-shabalin/)
+-   [Old itch.io profile](https://neverik.itch.io/)
+-   [New Ludum Dare profile](https://ldjam.com/users/neverix/)
+-   [New itch.io profile](https://neverix.itch.io/)
 
 # This portfolio is a WIP!
 
