@@ -13,8 +13,7 @@ permalink: /portfolio/
 
 # Programming
 
-I am a programmer with a game programming background. I have
-two Github accounts. Most of the important projects are on the new one,
+I have two Github accounts. Most of the important projects are on the new one,
 and the ones on the old profile are contained in the front page.
 
 -   [Old Github account](https://github.com/neverik/)
