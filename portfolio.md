@@ -21,8 +21,8 @@ and the ones on the old profile are contained in the front page.
 
 ## Hackathons
 
-So far, I have participated in two offline hackathons and the
-COVID-19 global hackathon.
+So far, I have participated in two offline hackathons and
+multiple online ones.
 
 ### MIT Reality Hack
 
@@ -71,6 +71,18 @@ it with a program for scheduling and won first place.
 -   [Pulkovo Hack](https://practicingfutures.org/pulkovohack)
 -   [The project](https://github.com/neverix/Pulkovo-Hack-Team-2020)
 -   [Presentation](https://github.com/neverix/Pulkovo-Hack-Team-2020/blob/master/presentation.odp?raw=true)
+
+### MultiTechBattle
+
+[MultiTechBattle](https://practicingfutures.org/mtb/) was a competition on the
+intersection of biotechnology and informatics, also hosted by Practicing Futures
+and Biowalks. I was tasked with analyzing algae images and creating plots of their activity.
+I also created the controller system responsible for making the conditions suitable for
+growth. I reached the finals and got certificates for participation.
+
+-   [MultiTechBattle](https://practicingfutures.org/mtb/)
+
+{% include img.html url="portfolio/biocert.png" description="Certificate" %}
 
 ## Projects
 
