@@ -72,6 +72,8 @@ it with a program for scheduling and won first place.
 -   [The project](https://github.com/neverix/Pulkovo-Hack-Team-2020)
 -   [Presentation](https://github.com/neverix/Pulkovo-Hack-Team-2020/blob/master/presentation.odp?raw=true)
 
+{% include img.html url="portfolio/pulkovocert.png" description="Certificate" %}
+
 ### MultiTechBattle
 
 [MultiTechBattle](https://practicingfutures.org/mtb/) was a competition on the
