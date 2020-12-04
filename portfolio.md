@@ -86,6 +86,23 @@ growth. I reached the finals and got certificates for participation.
 
 {% include img.html url="portfolio/biocert.png" description="Certificate" %}
 
+### CVML Hack
+
+[CVML Hack](http://avt.global/cvmlhack2020) was a machine learning hackathon
+that focused on computer vision. The task was digit and mathematical sign recognition.
+Our team tied for first place.
+
+-   [Task page](https://sim.newgen.education/mcv/40)
+
+{% include img.html url="portfolio/cvml.jpg" description="Example from the task" %}
+
+### Bilet Hack
+
+Simultanerously with CVML Hack, I participated in [Bilet Hack](https://hackathon.worldskills.ru/)
+without a team and reached the finals with a Streamlit data app.
+
+-   [Github repo](https://github.com/practicingfutures-org/BiletHack-Team-5)
+
 ## Projects
 
 This is a quick summary of the projects on my Github. To see a
