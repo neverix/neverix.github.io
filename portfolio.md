@@ -103,6 +103,18 @@ without a team and reached the finals with a Streamlit data app.
 
 -   [Github repo](https://github.com/practicingfutures-org/BiletHack-Team-5)
 
+{% include img.html url="portfolio/biletcert.png" description="Certificate" %}
+
+### Agro Hack
+
+I participated in Russia's first argricultural hackathon, [Agro Code](https://agro-code.ru/).
+The task was apple leaf disease detection. I also created a Streamlip app, it is available online.
+In this hackathon, I experimented with thresholding and model explanation. I also learned
+how to deplot models to low-end hardware.
+
+-   [Github repo](https://github.com/neverix/agrohack)
+-   [Streamlit app](https://share.streamlit.io/neverix/agrohack/main/app.py)
+
 ## Projects
 
 This is a quick summary of the projects on my Github. To see a
