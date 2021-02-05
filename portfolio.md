@@ -193,7 +193,7 @@ _with crossover and multiple species because I thought it would be less useful_
 _for neural networks. I'll need to conduct further experiments to see whether_
 _it's possible to get improvements that way._
 
-#### Voice conversion
+### Voice conversion
 
 I developed several methods for voice conversion (speech style transfer).
 
@@ -205,6 +205,17 @@ I finished the project in a private repository using the time warping
 method implemented in /vconvo.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1124415739&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/neverix" title="neverix" target="_blank" style="color: #cccccc; text-decoration: none;">neverix</a> · <a href="https://soundcloud.com/neverix/sets/voice-conversion-samples" title="Voice conversion samples" target="_blank" style="color: #cccccc; text-decoration: none;">Voice conversion samples</a></div>
+
+### Undefocus
+
+In October 2020, I was researching VR, and specifically VR optics.
+I was looking for a way to create a VR display without lenses and created
+an algorithm that could pre-process images to get rid of defocus blur
+computationally.
+
+[Project link](https://github.com/neverix/undefocus)
+
+{% include img.html url="portfolio/undefocus.png" description="Preprocessed image in focus; in defocus." %}
 
 ### Processing and Android
 
