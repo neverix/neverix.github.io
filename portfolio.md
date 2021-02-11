@@ -128,7 +128,7 @@ piece (we only had time for one). We won first place in the hackathon.
 -   [Hackathon description](https://vk.com/adtspb?w=wall-160009980_6402)
 -   [Github repo](https://github.com/neverix/hackweek2021-ar)
 
-{% include img.html url="portfolio/hackcert.png" description="Certificate" %}
+{% include img.html url="portfolio/hackcert.jpg" description="Certificate" %}
 
 ## Projects
 
