@@ -115,6 +115,21 @@ how to deplot models to low-end hardware.
 -   [Github repo](https://github.com/neverix/agrohack)
 -   [Streamlit app](https://share.streamlit.io/neverix/agrohack/main/app.py)
 
+### ADT HACK WEEK
+
+After I went on to the finals of a national programming competition called NTI
+I received an invitation to a series of hackathons from the Academy of Digital Technologies
+(ADT).
+
+I worked in a team to create an augmented reality checkers game. I worked
+on the computer vision component and used OpenCV to recognize the chess board and the
+piece (we only had time for one). We won first place in the hackathon.
+
+-   [Hackathon description](https://vk.com/adtspb?w=wall-160009980_6402)
+-   [Github repo](https://github.com/neverix/hackweek2021-ar)
+
+{% include img.html url="portfolio/hackcert.png" description="Certificate" %}
+
 ## Projects
 
 This is a quick summary of the projects on my Github. To see a
