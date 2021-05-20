@@ -7,3 +7,6 @@ Starting from today, the 19th of May (Wednesday), I will implement one algorithm
 
 # Day 1
 [Atom simulation](https://editor.p5js.org/neverik/sketches/ZKPIINchE).
+
+# Day 2
+[3D spinning cube](https://editor.p5js.org/neverik/sketches/2sLZg6jZ-). I couldn't figure out how to get Y-axis spinning so the result looks weird.
