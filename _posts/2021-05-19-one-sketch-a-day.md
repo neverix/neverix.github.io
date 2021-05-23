@@ -20,3 +20,8 @@ I started with one ball with simple acceleration and collision physics and then 
 [Attracting Balls](https://editor.p5js.org/neverik/sketches/-ffGOE3k9).
 
 This started as an attempt to add attraction between the balls to the previous day's sketch. Then I started experimenting with repulsion and alternating between the two. The behaviour became more and more complex as groups of balls and unattached singletons appeared. The end result reminded me of biological simulations, so I colored the balls green.
+
+# Day 5
+[Chains](https://editor.p5js.org/neverik/sketches/Ito9IVcgF).
+
+This is an experiment for a project involving cloth simulation. For this sketch I did the simplest thing possible: a simulation of a chain made up of little links. There are no feedback effects to take care of, and each element is only connected to its immediate neighbours.
