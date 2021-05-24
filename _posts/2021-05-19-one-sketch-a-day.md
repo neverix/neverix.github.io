@@ -30,3 +30,4 @@ This is an experiment for a project involving cloth simulation. For this sketch 
 [Waves](https://editor.p5js.org/neverik/sketches/CaKPfJscXw).
 
 First, I created a 2D wave simulation. Then I started adding interactivity and this slowly turned into a game.
+This is a 3D experiment, and there weren't any problems except for making mouse interactions work with boxes. I had to add an external library to handle them.
