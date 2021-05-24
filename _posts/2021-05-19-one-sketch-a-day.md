@@ -25,3 +25,8 @@ This started as an attempt to add attraction between the balls to the previous d
 [Chains](https://editor.p5js.org/neverik/sketches/Ito9IVcgF).
 
 This is an experiment for a project involving cloth simulation. For this sketch I did the simplest thing possible: a simulation of a chain made up of little links. There are no feedback effects to take care of, and each element is only connected to its immediate neighbours.
+
+# Day 6
+[Waves](https://editor.p5js.org/neverik/sketches/CaKPfJscXw).
+
+First, I created a 2D wave simulation. Then I started adding interactivity and this slowly turned into a game.
