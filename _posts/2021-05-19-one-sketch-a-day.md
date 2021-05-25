@@ -31,3 +31,8 @@ This is an experiment for a project involving cloth simulation. For this sketch 
 
 First, I created a 2D wave simulation. Then I started adding interactivity and this slowly turned into a game.
 This is a 3D experiment, and there weren't any problems except for making mouse interactions work with boxes. I had to add an external library to handle them.
+
+# Day 7
+[Cloth](https://editor.p5js.org/neverik/sketches/2_ndMduuf).
+
+I really like how this turned out, but the simulation is sometimes unstable. Instead of hard constraints, the sketch uses spring forces to mimic rubbery cloth. The simulation noise eventually builds up.
