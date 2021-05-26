@@ -36,3 +36,8 @@ This is a 3D experiment, and there weren't any problems except for making mouse 
 [Cloth](https://editor.p5js.org/neverik/sketches/2_ndMduuf).
 
 I really like how this turned out, but the simulation is sometimes unstable. Instead of hard constraints, the sketch uses spring forces to mimic rubbery cloth. The simulation noise eventually builds up.
+
+# Day 8
+[Sines](https://editor.p5js.org/neverik/sketches/lbCT9EcL3).
+
+Simple sketch this time. I experimented with better random generation and color encoding this time.
