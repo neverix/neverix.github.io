@@ -41,3 +41,8 @@ I really like how this turned out, but the simulation is sometimes unstable. Ins
 [Sines](https://editor.p5js.org/neverik/sketches/lbCT9EcL3).
 
 Simple sketch this time. I experimented with better random generation and color encoding this time.
+
+# Day 9
+[Life](https://editor.p5js.org/neverik/sketches/4abWy46OJ).
+
+This one is pretty basic too. This is a simple implementation of Conway's Game of Life. I experminted with manipulating pixel arrays directly and changing pixel density. There might be some bugs around the edges of the map, but the simulaiton still works well. I like the gradual expansion and it even produces gliders. 
