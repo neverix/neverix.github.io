@@ -51,3 +51,8 @@ This one is pretty basic too. This is a simple implementation of Conway's Game o
 [Insets](https://editor.p5js.org/neverik/sketches/BiYOSCN1c).
 
 This time I experimented with procedural animation. The result is barebones because I was in a rush, but I learned a lot about circle math and P5's drawing transforms.
+
+# Day 11
+[Spirals](https://editor.p5js.org/neverik/sketches/uBQyuleP0).
+
+Another simple sketch. This time I didn't erase stuff on the canvas, only adding to it. I think that takes a hit on performance. However, it makes drawing easier.
