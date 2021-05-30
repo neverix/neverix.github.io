@@ -56,3 +56,9 @@ This time I experimented with procedural animation. The result is barebones beca
 [Spirals](https://editor.p5js.org/neverik/sketches/uBQyuleP0).
 
 Another simple sketch. This time I didn't erase stuff on the canvas, only adding to it. I think that takes a hit on performance. However, it makes drawing easier.
+
+# Day 12
+[Ball](https://editor.p5js.org/neverik/sketches/7TyXQO3HD).
+
+This is the best one so far.
+
