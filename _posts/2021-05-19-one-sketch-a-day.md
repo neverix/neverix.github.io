@@ -62,3 +62,7 @@ Another simple sketch. This time I didn't erase stuff on the canvas, only adding
 
 This is the best one so far.
 
+# Day 13
+[Delayed Waves](https://editor.p5js.org/neverik/sketches/Y3mH-rUYq).
+
+A remix of waves. I wanted to make the grid structure sparse and more like a graph. I didn't have time to implement anything but at least it looks cooler.
