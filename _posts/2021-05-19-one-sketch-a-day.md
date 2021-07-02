@@ -81,3 +81,8 @@ Ahahah
 [Relix](https://editor.p5js.org/neverik/sketches/GKSxXE87J).
 
 More old stuff.
+
+# Day N
+[Two Doors](https://editor.p5js.org/neverik/sketches/06IgED382).
+
+So I started again. This should technically be day 17 (or 45), but it was arbitrary so I called it Day N. I had the idea for this while opening and closing a door repeatedly. I then imagined another door opening and closing at the same time and then the point where they meet, and then this happened. There are probably some mistakes in this, but I'm proud of the trigonometry.
