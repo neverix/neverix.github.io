@@ -1,11 +1,19 @@
 ---
-layout: default
-title: Home page
+layout: home
+title: nev's site
 permalink: /
+hidden: true
 ---
 
-# [Resume](/pdf/resume.pdf)
+<!--
+# Hi!
 
+I'm Stepan Shabalin/nev.
+
+# [Portfolio](/portfolio)
+-->
+
+<!--
 # Latest posts
 
 <ul>
@@ -15,4 +23,4 @@ permalink: /
       {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul>
+</ul>-->
