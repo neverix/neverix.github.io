@@ -1,6 +1,7 @@
 ---
 layout: post
 excerpt: One sketch a day challenge
+hidden: true
 ---
 
 Starting from today, the 19th of May (Wednesday), I will implement one algorithm per day, visual or other, and share the source code.
